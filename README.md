@@ -15,3 +15,7 @@ This is a clone of the website created by me by following [this tutorial](https:
 - there is a data tag too
 - there is an address tag too
 - a ch is unit is used to limit character
+
+## Live website
+
+The live version of the website can be found [here](https://dynamic-squirrel-8fa7e9.netlify.app/)
